@@ -1,0 +1,6 @@
+teste
+1 ligne
+2 ligne
+3 ligne
+pour voir ce qu'il fait \n
+dernier ligne 
